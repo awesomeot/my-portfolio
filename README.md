@@ -1,8 +1,10 @@
 # Ot Ratsaphong's Portfolio
 
-This is my professional portfolio site. I uses AWS and ReactJS.
+This is my professional portfolio site. It uses AWS and ReactJS.
 
-## Technologies used
+## Technologies Used
 
-HTML
-CSS
+  HTML
+  CSS
+  Git & GitHub
+  SSH
