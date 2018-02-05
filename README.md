@@ -8,3 +8,5 @@ This is my professional portfolio site. It uses AWS and ReactJS.
   CSS
   Git & GitHub
   SSH
+  Brew
+  Atom
