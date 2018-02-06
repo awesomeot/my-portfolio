@@ -10,3 +10,5 @@ This is my professional portfolio site. It uses AWS and ReactJS.
   SSH
   Brew
   Atom
+  Font Awesome,
+  Google Fonts
